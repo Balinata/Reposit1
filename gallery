@@ -24,6 +24,9 @@
 <div>
     <a href="./index.html">Головна</a>
 </div><br>
+<footer>
+    <time datetime="2022-07-10">10-07-2022</time>
+</footer>
 
 </body>
 </html>
