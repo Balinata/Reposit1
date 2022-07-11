@@ -21,6 +21,9 @@
     <img src="./images/завантаження.jpg" alt="">    
     <img src="./images/завантаження.png" alt="Github3" title="github3" class="round">
 </main>
+<div>
+    <a href="./index.html">Головна</a>
+</div><br>
 
 </body>
 </html>
